@@ -26,7 +26,7 @@
 
 <!-- About Me -->
 <h2><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="28">&nbsp;About Me</h2>
-<img align="right" src="https://media.tenor.com/XP4tw9P1yFoAAAAM/dedsec.gif" width="200" />
+<img align="right" src="https://media.tenor.com/XP4tw9P1yFoAAAAM/dedsec.gif" width="150" />
 <ul>
   <li>🔭 Passionate about AI, DevOps, and Logical Problem Solving</li>
   <li>⚙️ Building ML & Infra tools that scale smartly</li>
