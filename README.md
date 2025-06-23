@@ -38,13 +38,13 @@
 <!-- Tech Stack -->
 <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28">&nbsp;Tech Stack</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,bash,linux,docker,kubernetes,aws" />
+  <img src="https://skillicons.dev/icons?i=java,python,bash,linux,docker,aws" />
   <br>
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,fastapi,typescript,flask" />
   <br>
-  <img src="https://skillicons.dev/icons?i=nodejs,react,mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,react,mongodb,mysql" />
   <br>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 <!-- GitHub Stats -->
