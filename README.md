@@ -101,5 +101,3 @@ LinkedIn: <a href="https://www.linkedin.com/in/harshvardhan-ojha-024a0233a//">Ha
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ssubversion&theme=tokyo-night&area=true&hide_border=true" alt="Contribution Graph" />
 </p>
-<!-- GIF FOOTER -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-footer.png">
