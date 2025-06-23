@@ -26,7 +26,7 @@
 
 <!-- About Me -->
 <h2><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="28">&nbsp;About Me</h2>
-<img align="right" src="https://github.com/Ssubversion/Ssubversion/blob/main/gif.gif" width="160" />
+<img align="right" src="https://github.com/Ssubversion/Ssubversion/blob/main/gif.gif" width="150" />
 <ul>
   <li>🔭 Passionate about AI, DevOps, and Logical Problem Solving</li>
   <li>⚙️ Building ML & Infra tools that scale smartly</li>
