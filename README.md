@@ -90,12 +90,6 @@
 <p>Email: harshvardhanojha023@gmail.com<br>
 LinkedIn: <a href="https://www.linkedin.com/in/harshvardhan-ojha-024a0233a//">Harsh's Profile</a></p>
 
-<!-- Quote -->
-<h2>🧠 Quote of the Day</h2>
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
 <!-- Contribution Graph -->
 <h2>📈 GitHub Contribution Graph</h2>
 <p align="center">
