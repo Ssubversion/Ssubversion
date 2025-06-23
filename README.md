@@ -1,5 +1,3 @@
-<!-- GIT HEADER -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/blob/main/assets/banner-header.png">
 <!-- Neon Divider Top -->
 <p align="center">
   <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%" />
@@ -9,7 +7,7 @@
 
 <!-- Banner and Intro with Animation -->
 <p align="center">
-  <img src="https://github.com/Ssubversion/Ssubversion/blob/main/banner.jpeg" alt="Harsh Banner" width="100%" />
+  <img src="https://github.com/Ssubversion/Ssubversion/blob/main/banner.jpg" alt="Harsh Banner" width="100%" />
 </p>
 <h1 align="center">
   <a href="https://github.com/Ssubversion">
