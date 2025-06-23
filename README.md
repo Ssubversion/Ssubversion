@@ -3,8 +3,6 @@
   <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%" />
 </p>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=bfff00&size=35&center=true&vCenter=true&width=1000&lines=HELLO👋+My+name+is+Harsh;I'm+from+Uttarakhand;I'm+22+years-old;Welcome+to+my+profile!)
-
 <!-- Banner and Intro with Animation -->
 <p align="center">
   <img src="https://github.com/Ssubversion/Ssubversion/blob/main/banner.jpg" alt="Harsh Banner" width="100%" />
